@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on **open-source projects, freelance opportunities, or team-based web development projects that involve React, Next.js, and modern authentication solutions like NextAuth.js or Clerk.**  
 -  How to reach me: **You can contact me via odokclement@gmail.com or connect with me on GitHub @odokclement.**  
 
-Let me  know if you'd like further assistance! 😊
+Let me  know if you'd like further assistance! 
 
 <!---
 odokclement/odokclement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
