@@ -1,4 +1,4 @@
-**Odock Clement**  
+**Odock Clement Ochieng**  
 I’m currently **looking for a job** where I can apply my skills in **front-end development, REST API consumption, and modern UI libraries like shadcn/ui and Recharts.**  
 I’m looking to collaborate on **open-source projects, freelance opportunities, or team-based web development projects that involve React, Next.js, and modern authentication solutions like NextAuth.js or Clerk.**  
 
