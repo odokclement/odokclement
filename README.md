@@ -1,5 +1,5 @@
 **Odock Clement Ochieng**  
-*Software  Developer*
+**Software  Developer**
 
 
 <!---
