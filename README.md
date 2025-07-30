@@ -1,4 +1,4 @@
-**Odock Clement Ochieng**  
+**Ochieng Clement Odock**  
 
 **Software  Developer**
 <!---
