@@ -4,7 +4,7 @@
 **Software Developer**
 <!---
 odokclement/odokclement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.Profile repository
+You can click the Preview link to take a look at your changes.Profile repository. Visible to every one
 --->
 
 # Tech Stack:
