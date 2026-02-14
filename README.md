@@ -1,7 +1,5 @@
 # Ochieng Clement Odock
 
-
-
 # Software Developer
 
 # 💻 Tech Stack:
