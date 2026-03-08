@@ -1,6 +1,6 @@
 # Ochieng Clement Odock
 
-# FullStack Software Developer
+# Full-Stack Software Developer
 
 
 # 💻 Tech Stack:
