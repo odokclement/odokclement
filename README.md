@@ -1,5 +1,4 @@
 # Clement Ochieng Odock
-
 # Software Engineer
 
 # 💻 Tech Stack:
@@ -12,4 +11,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM  ( https://gprm.itsvg.in ) -->
